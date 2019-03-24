@@ -1,1 +1,3 @@
-"Name Shehryar Ali Tahir" 
+"Name Shehryar Ali Tahir"
+Email: sheriyarali.tahir@ucp.edu.pk
+Faculty: FOIT
